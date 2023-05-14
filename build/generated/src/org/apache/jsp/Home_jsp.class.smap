@@ -1,0 +1,51 @@
+SMAP
+Home_jsp.java
+JSP
+*S JSP
+*F
++ 0 Home.jsp
+Home.jsp
++ 1 navigation.jsp
+navigation.jsp
++ 2 left_index.jsp
+left_index.jsp
++ 3 Status.jsp
+Status.jsp
++ 4 writePost.jsp
+writePost.jsp
++ 5 postPage.jsp
+postPage.jsp
++ 6 right_index.jsp
+right_index.jsp
+*L
+5,25:54
+5#1,26:79
+31:105,3
+32:108,5
+33,14:113
+29#0,6:126
+5#2,34:132
+34#0,6:165
+5#3,35:171
+39#0,5:205
+5#4,11:210
+16:221,7
+17:228
+18:229,3
+19,10:232
+43#0,4:241
+5#5,11:245
+16:256,7
+17,11:263
+28:274,7
+29,11:281
+40:292,7
+41,11:299
+52:310,7
+53,11:317
+64:328,7
+65,12:335
+46#0,6:346
+5#6,132:352
+51#0,7:483
+*E

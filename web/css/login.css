@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+}
+.lp-container{
+    width:100%;
+    min-height:100vh;
+}
+
+.lp-divide{
+    padding-top: 210px;
+    padding-bottom: 150px;
+}
+.lp-logo{
+    margin-top:55px;
+}
+.hi{
+    border: 2px solid black;
+}
+.lp-form-container{
+    padding:25px;
+}
+.lp-form{
+    padding-bottom: 35px;
+}
+.lp-email{
+    padding-bottom: 5px;
+    margin-top:5px;
+}
+.lp-password{
+    padding-bottom: 5px;
+    margin-top:5px;
+}
+.lp-E-mail::placeholder{
+    font-size: 13px;
+    outline:non
+}
+.lp-1-password::placeholder{
+    font-size: 13px;
+    outline:none;
+}
+.lp-links{
+    font-size: 13px
+}
+.lp-button-div{
+    display: block;
+    text-align: center;
+}
+/*
+   .button{
+    border-radius: 3px;
+    border: none;
+    
+}*/
+/*
+
+ ____________________________________ 
+.div-padding{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.placeholder-all::placeholder{
+    font-size: 13px;
+    outline:none;
+}
+
+ .placeholder-all{
+    padding: 30px;
+} 
+
+.padding-signup{
+    padding-bottom: 10px;
+}
+.padding-signup-1{
+    padding-left:1px;
+    padding-right:1px;
+}
+.text-droplist{
+    font-size: smaller;
+}
+.register-p{
+    padding-right:35px;
+    padding-left:3px
+}
+.h-2{
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+
+
+.dd{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 200px;
+}*/
+
+
+

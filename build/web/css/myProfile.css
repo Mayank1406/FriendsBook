@@ -1,0 +1,66 @@
+.p4-1img-box{
+    padding:20px 180px;
+}
+
+.p4-1img{
+    width:100%;
+    border-radius:6px;
+    margin-bottom: 14px;
+}
+
+.p4-profile-info{
+    padding:0px 180px;
+    padding-bottom: 20px;
+}
+
+.p4-2img{
+    height: 92px;
+    border-radius:6px;
+}
+.p4-3img-container{
+    padding-left:20px;
+}
+
+.p4-3img-mutual{
+    height:25px;
+    border-radius:50%;
+}
+
+.p4-4img-cell{
+    float:right;
+}
+
+.p4-4img-icons{
+    height:15px;
+}
+
+.p4-4img-icons-more{
+    height:15px;
+}
+
+.p4-intro-about{
+    height: 22px;
+}
+
+.p4-intro-about-qoutes{
+    font-size: 15px;
+    font-weight:350;
+    height:25px;
+}
+
+.p4-photos-heading{
+    font-size: 14px;
+    font-weight:350;
+    text-decoration: none;
+}
+
+.p4-all-photos{
+    padding-bottom:px
+}
+.p4-photos{
+    height: 90px;
+}
+
+.mutual{
+    padding-top: -2px;
+}

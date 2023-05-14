@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.ep-container{
+    width:100%;
+    min-height:100vh;
+}
+
+.pr-container h1{
+    font-weight: 500px;
+    margin-bottom: 40px;
+}
+
+.pr-boxer{
+    display:flex;
+    align-items:center;
+    flex-wrap: wrap;
+    width:35%;
+    max-width: 800px;
+    background: #fff;
+}
+
+.pr-box{
+    padding:0px 90px 45px 90px ; 
+    flex-grow:1;
+}
+.pr-padding{
+    padding-bottom: 20px;
+}
+
+.pr-year{
+    padding-right:35px;
+    padding-left:3px
+}
+
+.pr-button-div{
+    display: block;
+}
+
+.alert{
+    color:red;
+    height: 40px;
+    padding-top: 5px !important;
+}
+
+.ep-div{
+    width:100%;
+    
+}
+
+/*.bio-pad
+{
+    padding-top:80px;
+}*/

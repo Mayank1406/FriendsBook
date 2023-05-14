@@ -1,0 +1,31 @@
+SMAP
+FriendsProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 FriendsProfile.jsp
+FriendsProfile.jsp
++ 1 navigation.jsp
+navigation.jsp
++ 2 postPage.jsp
+postPage.jsp
+*L
+5,23:50
+5#1,26:73
+31:99,3
+32:102,5
+33,14:107
+27#0,124:120
+5#2,11:244
+16:255,7
+17,11:262
+28:273,7
+29,11:280
+40:291,7
+41,11:298
+52:309,7
+53,11:316
+64:327,7
+65,12:334
+150#0,13:345
+*E
