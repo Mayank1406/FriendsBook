@@ -21,3 +21,18 @@ create table register(
 
 -- # checking data insertion
 select * from register; 
+
+drop table bio;
+-- # bio table
+create table bio(
+	bio_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	user_id int not null,
+     about varchar(100),
+     workingat varchar(100),
+     studied varchar(100),
+     highschool varchar(100),
+     livingat varchar(100),
+     from1 varchar(100),
+     timestamp timestamp,
+     FOREIGN KEY (user_id) REFERENCES register(user_id)
+);
