@@ -18,4 +18,4 @@ create table register(
      profile_pic varchar(100),
      date_joined timestamp
 );
-
+select * from register;
