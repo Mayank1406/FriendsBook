@@ -20,4 +20,4 @@ create table register(
 );
 
 -- # checking data insertion
-select * from register;
+select * from register; 
