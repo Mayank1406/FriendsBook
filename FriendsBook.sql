@@ -6,7 +6,7 @@ use Friendsbook;
 
 -- #Creating Tables
 create table register(
-	 user_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	user_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
      name varchar(100),
      surname varchar(100),
      username varchar(100),
