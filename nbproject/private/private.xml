@@ -3,20 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/postPage.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/backend/Logout.java</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/home_post.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/backend/Register.java</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/backend/DeleteStatus.java</file>
             <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/dbqueries/DbQueries.java</file>
             <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/dbconn/DbConnection.java</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/Status.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/myProfile.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/editBioForm.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/Home.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/web/FriendsProfile.jsp</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/backend/EditProfile.java</file>
-            <file>file:/C:/Users/Mayank/OneDrive/Documents/NetBeansProjects/FriendsBook/src/java/in/sp/backend/Login.java</file>
         </group>
     </open-files>
 </project-private>

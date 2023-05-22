@@ -1,3 +1,4 @@
+drop database Friendsbook;
 -- # Creating DataBase bio
 CREATE DATABASE FriendsBook;
 
@@ -34,5 +35,19 @@ create table bio(
      livingat varchar(100),
      from1 varchar(100),
      timestamp timestamp,
-     FOREIGN KEY (user_id) REFERENCES register(user_id)
+     FOREIGN KEY (user_id) REFERENCES register(user_id),
+     index(email)
+);
+
+select * from bio;
+
+-- # status table
+create table status(
+	email varchar(100),
+     status_text varchar(100),
+     status_img varchar(100),
+     date1 varchar(100),
+     time1 varchar(100),
+     timestamp timestamp,
+	 FOREIGN KEY (email) REFERENCES register(email)
 );
