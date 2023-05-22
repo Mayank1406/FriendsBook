@@ -40,7 +40,7 @@ select * from bio;
 -- # status table
 create table status(
 	email varchar(100),
-     status_text varchar(100),
+     status_text varchar(500),
      status_img varchar(100),
      date1 varchar(100),
      time1 varchar(100),
