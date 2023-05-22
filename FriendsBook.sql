@@ -48,6 +48,6 @@ create table status(
      status_img varchar(100),
      date1 varchar(100),
      time1 varchar(100),
-     timestamp timestamp,
-	 FOREIGN KEY (email) REFERENCES register(email)
+	FOREIGN KEY (email) REFERENCES register(email)
 );
+ -- Status complete
