@@ -1,11 +1,10 @@
 drop database Friendsbook;
--- # Creating DataBase bio
+
 CREATE DATABASE FriendsBook;
 
--- #Selecting Database
 use Friendsbook;
 
--- #Creating Tables
+-- #register Table
 create table register(
 	user_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
      name varchar(100),
@@ -19,11 +18,8 @@ create table register(
      profile_pic varchar(100),
      date_joined timestamp
 );
+select * from register;
 
--- # checking data insertion
-select * from register; 
-
-drop table bio;
 -- # bio table
 create table bio(
 	bio_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -50,4 +46,4 @@ create table status(
      time1 varchar(100),
 	FOREIGN KEY (email) REFERENCES register(email)
 );
- -- Status complete
+select * from status;
